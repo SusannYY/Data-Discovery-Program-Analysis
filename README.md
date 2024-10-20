@@ -5,7 +5,7 @@
 ![image](https://github.com/user-attachments/assets/6317bef3-ecf5-4bed-bd49-c2cda1a7c5f7)
 Visit [official website](https://cdss.berkeley.edu/discovery) for more information.
 
-# My job as a Data and Operation Lead Analyst
+# My job as a Lead Analyst under the Data and Operation Department
 - Reports on analysis of application counts, types of partner industries, partner and student satisfaction, student demographics, and other aspects of program success
 - Survey work highlights room for improvement such as developing culture among Discovery students, influencing policy changes with a goal to improve partner and student experiences as much as possible
 - Data cleaning and archiving of historical survey data and application data for 600+ past partners
